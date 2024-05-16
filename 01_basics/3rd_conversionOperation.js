@@ -52,7 +52,7 @@ console.log(1+2+"2");
 
 console.log(+true);
 // => true
-console.log(true+);
+//console.log(true +);
 // => error
 
 let gameCounter = 100
